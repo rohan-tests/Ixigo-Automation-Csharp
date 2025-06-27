@@ -1,3 +1,4 @@
+⚠️ Note: This project was originally uploaded from another GitHub account which has now been deactivated. Re-uploaded here for portfolio continuity.
 # ✈️ IXIGO.com Flight Booking Automation Framework (C# + SpecFlow)
 
 This is a modern, maintainable automation framework built using **Selenium WebDriver**, **C#**, **SpecFlow (BDD)**, and **NUnit**. It automates the **flight booking module** of IXIGO.com, simulating real-world booking scenarios with clean reporting and modular design.
